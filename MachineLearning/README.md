@@ -6,6 +6,14 @@ In the section, I'll build an image classifier from scratch. When I have an algo
 
 
 
+![Machine learning map](./resources/Machine learning.png)
+
+*The majority of this section will focus on supervised learning because the vast majority of machine learning models used in production are supervised.*
+
+
+
+
+
 **Table of Contents**	
 
 1. [The Need for Machine Learning Design Patterns](./ml/TheNeed4MachineLearningDesignPatterns.md)
