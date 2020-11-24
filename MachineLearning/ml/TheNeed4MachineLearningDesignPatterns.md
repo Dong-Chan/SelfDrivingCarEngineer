@@ -6,7 +6,7 @@ Design patterns are a way to codify the knowledge and experience of expects into
 
 **Table of contents**
 
-1. [Data Quality](#Data Quality)
+1. [Data Quality](#DataQuality)
 
 
 
