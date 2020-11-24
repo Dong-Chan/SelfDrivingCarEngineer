@@ -8,4 +8,5 @@ In the section, I'll build an image classifier from scratch. When I have an algo
 
 # Table of Contents
 
-1. [The Need for Machine Learning Design Patterns](https://)
+1. [The Need for Machine Learning Design Patterns](https://github.com/Dong-Chan/SelfDrivingCarEngineer/blob/main/MachineLearning/ml/TheNeed4MachineLearningDesignPatterns.md)
+
